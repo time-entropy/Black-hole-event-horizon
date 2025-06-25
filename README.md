@@ -1,4 +1,4 @@
-# Black-hole-event-horizon
+# Black-hole-event-horizon effect and mechanism
 
 Black hole event horizon: Inside the event horizon of a black hole, due to intense gravitational forces, the spacing between SEQ is compressed to its limit. This extreme compression approximately and locally halts:
 
